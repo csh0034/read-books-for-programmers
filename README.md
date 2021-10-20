@@ -13,7 +13,7 @@ docs(책 제목): 챕터. 제목 - Github Id
 
 <body>
 
-todo: 다음으로 추가할 챕터및 내용
+<footer>
 ```
 
 ### Examples
