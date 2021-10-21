@@ -2,7 +2,7 @@
 
 ## 커밋 규칙
 
-기본적으로 [AngualJS Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)을 따른다.
+기본적으로 [AngularJS Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) 을 따른다.
 
 ### Format
 
