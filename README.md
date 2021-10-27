@@ -6,13 +6,13 @@
 
 ### Format
 
-_docs(`첵 제목`): `챕터`. `제목` - `Github ID`_
+_docs(`책 제목`): `챕터`. `제목` - `Github ID`_
 
 ``` text
 docs(책 제목): 챕터. 제목 - Github Id
-
+<BLANK LINE>
 <body>
-
+<BLANK LINE>
 <footer>
 ```
 
