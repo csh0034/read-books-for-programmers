@@ -10,3 +10,4 @@
 |06|객체와 자료 구조|[csh0034](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/06.%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/csh0034.md)|
 |07|오류 처리|[csh0034](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/07.%20%EC%98%A4%EB%A5%98%20%EC%B2%98%EB%A6%AC/csh0034.md)|
 |08|경계|[csh0034](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/08.%20%EA%B2%BD%EA%B3%84/csh0034.md)|
+|09|단위 테스트|[csh0034](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/09.%20%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8/csh0034.md)|
