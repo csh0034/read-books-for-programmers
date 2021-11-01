@@ -237,7 +237,7 @@ public class Member {
 public class Member {
    // 출력 인수 사용으로 독자를 햇갈리게 만든다.
    private static Member createNew(Member member, String name) {
-      member.name = member;
+      member.name = name;
       return member;
    }
 }
@@ -420,7 +420,7 @@ public void appendFooter(StringBuffer report);
 
 출력 인수는 저자를 주춤하게 한다. 인지적으로 거슬린다는 뜻이다.
 
-출력 인수로 사용하라고 설계한 키워드가 바로 **`this`**다.
+출력 인수로 사용하라고 설계한 키워드가 바로 `this`다.
 객체 지향 언어에서는 출력 인수를 사용할 필요가 거의 없다.
 
 따라서 객체 인수의 상태를 변경하려면, 다음과 같이 호출 방식을 변경해야한다.
@@ -530,7 +530,7 @@ Error enum이 변한다면, Error enum을 사용하는 클래스 전부를 다�
 
 결과적으로 의존성 자석들은 OCP 위반하게 된다.
 
-오류 코드 대신 예외를 사용하면 새 예외는 Exception 클래스에서 파생되기 때문에, 재컴파일/재배치 없이 새 예외 클래스를 추가할 수 있다.
+오류 코드 대신 예외를 사용하면 새로운 예외는 Exception 클래스에서 파생되기 때문에, 재컴파일/재배치 없이 새로운 예외 클래스를 추가할 수 있다.
 
 ## 반복하지 마라
 
