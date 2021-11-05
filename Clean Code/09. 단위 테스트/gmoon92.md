@@ -161,7 +161,7 @@ public class SerializedPageResponderTest {
 
 위 코드는 리펙토링한 테스트 코드다.
 
-build-operate-check 패턴이 위와 같은 테스트 구조에 적합하다. 각 테스트는 명확히 세 부분으로 나눠진다.
+[build-operate-check 패턴](https://medium.com/swlh/usual-production-patterns-applied-to-integration-tests-50a941f0b04a) 이 위와 같은 테스트 구조에 적합하다. 각 테스트는 명확히 세 부분으로 나눠진다.
 
 1. 테스트 자료를 만든다.
 2. 테스트 자료를 조작한다.
