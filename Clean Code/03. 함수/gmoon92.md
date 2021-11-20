@@ -277,7 +277,7 @@ public class Member {
 
 이외 다른 유형의 단항 함수는 가급적 피한다.
 
-예를들어 void includeSetupPageInfo(StringBuffer pageText) 같은 함수를 사용하지 말아라.
+예를 들어 void includeSetupPageInfo(StringBuffer pageText) 같은 함수를 사용하지 말아라.
 
 1. 리턴 타입을 보니 `void`다. 상태를 변경하는 이벤트 함수인가?
 2. 아니면 메서드 명을 보니 변환 함수 같은데, 리턴 타입이 없다.
@@ -440,8 +440,6 @@ if (set("username", "gmoon")) { ... }
 ```
 
 다음 함수는 "set"이라는 단어가 동사인지 형용사인지 분간하기 어려워 코드만 봐선 의미가 모호하다.
-
-
 
 ## 오류 코드보다 예외를 사용하라
 
