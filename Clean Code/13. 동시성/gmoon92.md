@@ -120,7 +120,8 @@ class ConcurrencyTest {
               .start();
     }
 
-    assertThat(count.value).isEqualTo(100);
+    assertThat(count.value)
+            .isEqualTo(100);
   }
 }
 ```
