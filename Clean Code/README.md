@@ -18,3 +18,4 @@
 |14|점진적인 개선|[gmoon92](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/14.%20%EC%A0%90%EC%A7%84%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EC%84%A0/gmoon92.md)|
 |15|JUnit 들여다보기|[gmoon92](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/15.%20JUnit%20%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B0/gmoon92.md)|
 |16|SerialDate 리팩터링|[gmoon92](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/16.%20SerialDate%20%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81/gmoon92.md)|
+|17|냄사와 휴리스틱|[gmoon92](https://github.com/csh0034/read-books-for-programmers/blob/main/Clean%20Code/17.%20%EB%83%84%EC%82%AC%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1/gmoon92.md)|
